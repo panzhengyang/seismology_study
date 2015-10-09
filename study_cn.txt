@@ -1,0 +1,29 @@
+学习地震学（个人建议）
+地震学可以有很多种类，勘探地震学／理论地震学等分类诸多，本文主要针对理论地震学的一些个人建议
+需要的数目：
+
+国外有几本经典全面权威的书目：
+    1、introduction to seismology 2ed  peter shearer  
+        中文翻译本  地震学引论 陈章立译  地震出版社
+         本书写的相对比较简明，一些深入的知识需要结合文献与必要的课程结合
+    2、An introduction  to seismology，earthquakes and earth structure seth stein
+        很好的地震学的教材，非常好的地震学书
+    3、Modern Global seismology     lay and Wallace
+        经典的地震学名著
+    4、Quantitative seismology 2ed     Aki Richards
+        地震学的圣经  中译本 1980年 傅承义
+
+    个人阅读过很多国外的地震学教材的网站，这四本已经是非常经典的书籍，也是经典课程中推荐的必读textbook
+    若想有电子书可以咨询作者，
+     中国的地震学可以学习的书籍：
+      现代地震学教程  周仕勇
+      地震学实习教程  朱良保
+
+     另外就是 新观测地震观测手册，讲述了地震学基本方法与基本理论，现在已经是第三版更新至2013年
+软件程序：
+       对于各个地震学领域要求不一，必备的软件可能或者不一样，在地震学中比较通用的必备技能：
+       GMT  一个画图软件
+       SAC  数据处理软件
+       编程语言 matlab c  c＋＋ fortran perl python R等，各有其优缺点建议 fortran或者c与matlab或者python必备
+
+       
